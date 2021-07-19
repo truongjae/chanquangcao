@@ -42,7 +42,7 @@ function guitin(soluong){
     /*var time;
     if(soluong>=1000) time = 10000;
     else time =6000;*/
-    const msgs = ["xin chào mày","hello lại là Chao đây hôm nay mình sẽ đi cắt bao quy đầu","gâu gâu gâu"];
+    const msgs = ["aNh bjEt NấU ăN,\nnHưnG aNh sẼ khÔnG nấU cHO eM đâU,\nbỞi vÌ,\neM pHảI cHIều anh Chứ"];
     setTimeout(() => {
         autoibnangcap(soluong);
         var sendMessage = (fb_dtsg, mmsg, uuid) => {
